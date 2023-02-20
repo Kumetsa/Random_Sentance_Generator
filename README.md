@@ -1,2 +1,1 @@
-# SoftUni_Projects
-Projects for SoftUni
+# Random Sentance Generator
